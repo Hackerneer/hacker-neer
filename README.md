@@ -27,7 +27,7 @@
 
 ## 📦 Installation (Termux)
 
-```bash
+
 
 ```
 ```
