@@ -29,16 +29,20 @@
 
 ```bash
 # Update packages
+```
+```
 pkg update && pkg upgrade
 
 # Install dependencies
-
+```
+```
 pkg install python git nano
-```
-```
-# Clone repository
 
+# Clone repository
+```
+```
 git clone https://github.com/YOUR_USERNAME/hacker-neer.git
+
 ```
 ```
 cd hacker-neer
